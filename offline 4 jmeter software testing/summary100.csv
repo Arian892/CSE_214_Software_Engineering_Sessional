@@ -1,0 +1,14 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+startech/gtag/js-180,100,533,461,867,56.40,22.000%,1.00522,123.09,0.38,125388.2
+startech/en_US/fbevents.js-181,100,84,66,153,16.32,4.000%,1.01036,64.59,0.37,65461.2
+startech/update/3/SystemAddons/106.0.1/20221019185550/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.26100.2605%20(x64)/default/default/update.xml-182,100,177,165,384,24.61,4.000%,1.00943,0.46,0.50,469.7
+startech/-183,100,198,107,1136,120.90,3.000%,1.01204,32.87,0.45,33257.4
+ryans/storage/products/small/logitech-c270-webcam-11686572193.webp-244,100,126,28,1258,153.22,35.000%,1.00910,5.97,0.42,6058.0
+ryans/storage/products/small/dahua-dh-hac-t1a21p-28mm-2mp-dome-cc-11706171450.webp-245,100,41,14,157,32.68,35.000%,1.00990,5.05,0.44,5123.3
+ryans/storage/products/small/revenger-lite-power-350w-non-modular-80-plus-11708857908.webp-246,100,44,14,194,36.50,36.000%,1.00802,21.35,0.45,21686.9
+ryans/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015-247,100,709,91,5184,1041.49,39.000%,.99594,7.13,0.41,7332.9
+reddit/-564,100,32123,917,96657,28592.21,17.000%,.51424,49.00,0.42,97570.1
+reddit/submit/activity-stream/sessions/1/27ad386e-683d-455d-a7e0-223a2a8dac7c-565,100,386,344,545,25.23,6.000%,.51644,0.42,0.67,824.4
+reddit/submit/firefox-desktop/newtab/1/276f9fa9-2b9a-4378-a19b-709f7efda6a6-566,100,267,231,335,19.60,11.000%,.51690,0.42,0.88,827.3
+reddit/shreddit/en-US/post-d6ddae05.js-570,100,179,166,244,12.83,6.000%,.51693,0.77,0.21,1526.0
+TOTAL,1200,2906,14,96657,12077.33,18.167%,6.05464,180.10,3.85,30460.4
